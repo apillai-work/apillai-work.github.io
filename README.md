@@ -25,4 +25,4 @@ Conversational AI Designer (Oct 2022 - Feb 2023)
 Digibroadcast Co. Ltd.\
 Digital Marketing and UX Research Coordinator (Jul 2019 - Mar 2020)
 - Worked towards instituting a design-led development process for the website, and implemented dynamic product ads (DPAs) using Facebook Pixel data resulting in a 35% increase in website sales. 
-- Materialized a 'premium distributor' relationship with various brands such as Sennheiser and SchnittPunkt
+- Materialized a 'premium distributor' relationship with various brands such as Sennheiser and SchnittPunkt 
