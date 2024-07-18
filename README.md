@@ -2,8 +2,8 @@
 ### Education 
 MSc Data Science and AI for the Creative Industries\
 Creative Computing Institute, University of the Arts London\
-Thesis: Exploring timbre transfer as a creative music production tool to aid autistic stimming\
-\
+Thesis: Exploring timbre transfer as a creative music production tool to aid autistic stimming
+
 BBA (Hons.) Business Administration\
 Kingston University London\
 Specialisation: Marketing, Finance, and IT
